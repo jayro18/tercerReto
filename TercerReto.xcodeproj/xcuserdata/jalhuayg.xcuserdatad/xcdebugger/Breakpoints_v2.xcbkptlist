@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "39F1E11C-8707-4D4F-B94E-742112B63E8C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D303626B-21D6-4A0E-AD3D-BA56594F47FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TercerReto/AddTaskViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "AddTaskViewControllerDelegate"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  uuid = "D303626B-21D6-4A0E-AD3D-BA56594F47FC - 2ef70c726042b1c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TercerReto.AddTaskViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TercerReto.AddTaskViewController"
+                  moduleName = "TercerReto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalhuayg/Desktop/bootcamp/TercerReto/TercerReto/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "D303626B-21D6-4A0E-AD3D-BA56594F47FC - 660c9310bfc4d322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TercerReto.AddTaskViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TercerReto.AddTaskViewController"
+                  moduleName = "TercerReto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalhuayg/Desktop/bootcamp/TercerReto/TercerReto/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "D303626B-21D6-4A0E-AD3D-BA56594F47FC - 2406fa75451532f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TercerReto.AddTaskViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TercerReto.AddTaskViewController&gt;"
+                  moduleName = "TercerReto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalhuayg/Desktop/bootcamp/TercerReto/TercerReto/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "D303626B-21D6-4A0E-AD3D-BA56594F47FC - 25d59b89a5ce4e15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TercerReto.AddTaskViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TercerReto.AddTaskViewController&gt;"
+                  moduleName = "TercerReto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalhuayg/Desktop/bootcamp/TercerReto/TercerReto/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "D303626B-21D6-4A0E-AD3D-BA56594F47FC - 26ea001dabc55e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TercerReto.AddTaskViewController.__deallocating_deinit"
+                  moduleName = "TercerReto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalhuayg/Desktop/bootcamp/TercerReto/TercerReto/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D2504FD-9337-47E1-AAE8-B866F6F0A3B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TercerReto/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "addTaskViewController(_:didCreateTask:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE526505-2797-4234-A124-18BAF4A47BEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TercerReto/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "deleteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8D25B58-39BD-4105-AE23-840811243863"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TercerReto/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "eliminarTarea(_:didDeleteTask:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
